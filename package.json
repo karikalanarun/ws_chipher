@@ -1,0 +1,11 @@
+{
+  "name": "ws_cipher",
+  "version": "1.0.0",
+  "description": "This is a library to encode and decode the websocket messages as per the w3c standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Karikalan",
+  "license": "ISC"
+}
